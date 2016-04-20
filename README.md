@@ -47,9 +47,6 @@ Il s'agit essentiellement d'un modèle d'organisation, qui invite tous les modè
 
 Cette organisation proposée, permet à toutes les assemblées et à toutes les cultures d'avoir leur propre mode de fonctionnement, et éviter ainsi des tensions et des lourdeurs.
 
-
-
-
 La transition de notre modèle actuel à l'ODG5 peut commencer dès maintenant, en commençant par faire connaissance avec vos voisins et 
 les habitants de votre quartier. Il est important de créer ce lien de voisinage pour qu'un jour, généralisée au niveau planétaire, 
 l'union de notre civilisation soit complète, comme une grande chaîne continue.
