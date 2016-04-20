@@ -30,7 +30,7 @@ assurent le bon déroulement et la coordination des communautés de niveau sous-
 
 
 III. Organisation générale
-=========================
+==========================
 
 Assemblée autonome de niveau 1 (AA1) : son quartier
 ---------------------------------------------------
@@ -55,8 +55,7 @@ Les objectifs externes:
 
 Remarques :
 
-La désignation du porte-parole se fait par décision de l'assemblée selon le choix qu'elle souhaitera : par volontariat, à tour de rôle, 
-tirage au sort ou vote. Une assemblée peut désigner quelqu'un qui se porte volontaire et qu'elle considère comme bon porte-parole, tout
+La désignation du porte-parole se fait par décision de l'assemblée selon le choix qu'elle souhaitera : par volontariat, à tour de rôle, tirage au sort ou vote. Une assemblée peut désigner quelqu'un qui se porte volontaire et qu'elle considère comme bon porte-parole, tout
 comme le changer à tour de rôle.
 
 
